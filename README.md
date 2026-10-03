@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Asad 👋
 
-<!--
-**asadaiexpert/asadaiexpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Prompt Engineer** | ChatGPT • Midjourney • Claude
 
-Here are some ideas to get you started:
+I build free, tested AI prompt resources that save hours of trial and error.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Custom ChatGPT prompts for business & content
+- Midjourney prompts for stunning AI images
+- SEO & marketing prompt packs
+
+## Featured
+- PromptSathi - free AI prompt library (coming soon)
+
+## Connect
+- Fiverr: asad_ai_expert
+- Email via GitHub profile
+
+⭐ Follow for weekly prompt drops
